@@ -1,0 +1,7 @@
+{
+  "word_errors": 0,
+  "reference_words": 22,
+  "wer": 0.0,
+  "reference": "And so my fellow Americans ask not what your country can do for you ask what you can do for your country",
+  "hypothesis": "And so my fellow Americans ask not what your country can do for you ask what you can do for your country."
+}

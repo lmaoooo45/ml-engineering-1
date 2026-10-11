@@ -1,0 +1,31 @@
+{
+  "file": "samples/dog.jpg",
+  "top5": [
+    {
+      "class_id": "n02111889",
+      "label": "Samoyed",
+      "score": 0.5863738656044006
+    },
+    {
+      "class_id": "n02112018",
+      "label": "Pomeranian",
+      "score": 0.10123195499181747
+    },
+    {
+      "class_id": "n02120079",
+      "label": "Arctic_fox",
+      "score": 0.06690161675214767
+    },
+    {
+      "class_id": "n01877812",
+      "label": "wallaby",
+      "score": 0.023608362302184105
+    },
+    {
+      "class_id": "n02112350",
+      "label": "keeshond",
+      "score": 0.022486014291644096
+    }
+  ],
+  "processing_seconds": 0.15692119999948773
+}

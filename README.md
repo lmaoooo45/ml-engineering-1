@@ -36,3 +36,5 @@ py -3.12 -m venv .venv
 Постановка задач: [ТЗ](docs/specification.md). Модели, данные, метрики и ограничения: [отчёт](report.md).
 
 Продолжение: [API анализа тональности и тесты](https://github.com/lmaoooo45/ml-engineering-api).
+
+Третья часть: [рекомендательная система фильмов](https://github.com/lmaoooo45/ml-engineering-recsys).
